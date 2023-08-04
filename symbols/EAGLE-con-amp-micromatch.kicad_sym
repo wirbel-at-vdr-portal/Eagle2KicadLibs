@@ -1,0 +1,2504 @@
+(kicad_symbol_lib (version 20220914) (generator Eagle2Kicad)
+  (symbol "MICROMATCH-20" (in_bom yes) (on_board yes)
+    (property "Reference" "X" (at -0.508 0.889 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "MICROMATCH-20" (at 0 0.889 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:con-amp-micromatch.MICROMATCH_20" (at 0 0.889 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 0 0.889 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (symbol "MICROMATCH-20_1_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "1" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-20_2_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "2" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-20_3_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "3" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-20_4_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "4" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-20_5_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "5" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-20_6_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "6" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-20_7_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "7" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-20_8_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "8" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-20_9_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "9" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-20_10_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "10" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-20_11_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "11" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-20_12_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "12" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-20_13_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "13" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-20_14_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "14" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-20_15_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "15" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-20_16_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "16" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-20_17_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "17" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-20_18_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "18" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-20_19_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "19" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-20_20_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "20" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+  )
+  (symbol "MICROMATCH-18" (in_bom yes) (on_board yes)
+    (property "Reference" "X" (at -0.508 0.889 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "MICROMATCH-18" (at 0 0.889 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:con-amp-micromatch.MICROMATCH_18" (at 0 0.889 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 0 0.889 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (symbol "MICROMATCH-18_1_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "1" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-18_2_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "2" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-18_3_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "3" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-18_4_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "4" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-18_5_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "5" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-18_6_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "6" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-18_7_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "7" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-18_8_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "8" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-18_9_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "9" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-18_10_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "10" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-18_11_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "11" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-18_12_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "12" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-18_13_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "13" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-18_14_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "14" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-18_15_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "15" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-18_16_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "16" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-18_17_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "17" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-18_18_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "18" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+  )
+  (symbol "MICROMATCH-16" (in_bom yes) (on_board yes)
+    (property "Reference" "X" (at -0.508 0.889 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "MICROMATCH-16" (at 0 0.889 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:con-amp-micromatch.MICROMATCH_16" (at 0 0.889 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 0 0.889 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (symbol "MICROMATCH-16_1_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "1" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-16_2_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "2" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-16_3_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "3" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-16_4_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "4" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-16_5_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "5" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-16_6_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "6" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-16_7_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "7" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-16_8_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "8" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-16_9_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "9" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-16_10_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "10" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-16_11_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "11" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-16_12_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "12" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-16_13_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "13" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-16_14_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "14" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-16_15_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "15" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-16_16_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "16" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+  )
+  (symbol "MICROMATCH-14" (in_bom yes) (on_board yes)
+    (property "Reference" "X" (at -0.508 0.889 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "MICROMATCH-14" (at 0 0.889 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:con-amp-micromatch.MICROMATCH_14" (at 0 0.889 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 0 0.889 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (symbol "MICROMATCH-14_1_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "1" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-14_2_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "2" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-14_3_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "3" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-14_4_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "4" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-14_5_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "5" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-14_6_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "6" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-14_7_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "7" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-14_8_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "8" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-14_9_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "9" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-14_10_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "10" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-14_11_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "11" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-14_12_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "12" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-14_13_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "13" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-14_14_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "14" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+  )
+  (symbol "MICROMATCH-12" (in_bom yes) (on_board yes)
+    (property "Reference" "X" (at -0.508 0.889 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "MICROMATCH-12" (at 0 0.889 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:con-amp-micromatch.MICROMATCH_12" (at 0 0.889 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 0 0.889 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (symbol "MICROMATCH-12_1_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "1" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-12_2_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "2" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-12_3_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "3" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-12_4_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "4" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-12_5_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "5" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-12_6_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "6" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-12_7_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "7" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-12_8_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "8" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-12_9_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "9" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-12_10_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "10" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-12_11_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "11" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-12_12_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "12" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+  )
+  (symbol "MICROMATCH-10" (in_bom yes) (on_board yes)
+    (property "Reference" "X" (at -0.508 0.889 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "MICROMATCH-10" (at 0 0.889 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:con-amp-micromatch.MICROMATCH_10" (at 0 0.889 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 0 0.889 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (symbol "MICROMATCH-10_1_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "1" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-10_2_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "2" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-10_3_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "3" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-10_4_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "4" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-10_5_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "5" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-10_6_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "6" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-10_7_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "7" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-10_8_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "8" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-10_9_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "9" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-10_10_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "10" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+  )
+  (symbol "MICROMATCH-8" (in_bom yes) (on_board yes)
+    (property "Reference" "X" (at -0.508 0.889 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "MICROMATCH-8" (at 0 0.889 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:con-amp-micromatch.MICROMATCH_8" (at 0 0.889 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 0 0.889 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (symbol "MICROMATCH-8_1_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "1" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-8_2_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "2" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-8_3_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "3" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-8_4_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "4" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-8_5_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "5" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-8_6_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "6" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-8_7_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "7" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-8_8_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "8" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+  )
+  (symbol "MICROMATCH-6" (in_bom yes) (on_board yes)
+    (property "Reference" "X" (at -0.508 0.889 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "MICROMATCH-6" (at 0 0.889 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:con-amp-micromatch.MICROMATCH_6" (at 0 0.889 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 0 0.889 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (symbol "MICROMATCH-6_1_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "1" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-6_2_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "2" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-6_3_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "3" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-6_4_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "4" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-6_5_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "5" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-6_6_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "6" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+  )
+  (symbol "MICROMATCH-4" (in_bom yes) (on_board yes)
+    (property "Reference" "X" (at -0.508 0.889 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "MICROMATCH-4" (at 0 0.889 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:con-amp-micromatch.MICROMATCH_4" (at 0 0.889 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 0 0.889 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (symbol "MICROMATCH-4_1_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "1" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-4_2_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "2" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-4_3_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "3" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MICROMATCH-4_4_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "4" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+  )
+)

@@ -1,0 +1,124 @@
+(kicad_symbol_lib (version 20220914) (generator Eagle2Kicad)
+  (symbol "PC25" (in_bom yes) (on_board yes)
+    (property "Reference" "R" (at -5.969 -3.81 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "PC25" (at -3.81 -3.81 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:pot-vitrohm.PC25" (at -3.81 -3.81 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at -3.81 -3.81 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (polyline
+      (pts
+        (xy -0.762 2.54)
+        (xy -0.762 -2.54)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 0.762 -2.54)
+        (xy 0.762 2.54)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 0)
+        (xy 1.651 0)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 1.651 0)
+        (xy -1.8796 1.7526)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 0.762 2.54)
+        (xy -0.762 2.54)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -0.762 -2.54)
+        (xy 0.762 -2.54)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.1597 1.2939)
+        (xy -3.1989 2.4495)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.1989 2.4495)
+        (xy -1.7018 2.2352)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 -2.54)
+        (xy -2.54 -0.508)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 -0.508)
+        (xy -3.048 -1.524)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 -0.508)
+        (xy -2.032 -1.524)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.1597 1.2939)
+        (xy -1.7018 2.2352)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (pin passive line (at 0 -5.08 90) (length 2.54)
+      (name "A" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      (number "A" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+    )
+    (pin passive line (at 0 5.08 270) (length 2.54)
+      (name "E" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      (number "E" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+    )
+    (pin passive line (at 5.08 0 180) (length 2.54)
+      (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      (number "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+    )
+  )
+)

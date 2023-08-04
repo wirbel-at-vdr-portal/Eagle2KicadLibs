@@ -1,0 +1,21 @@
+(footprint "logo.CE_7_3MM" (version 20220914) (generator Eagle2Kicad)
+  (layer "F.Cu")
+  (tedit 64cac550)
+  (descr "Logo CE 10 mm")
+  (fp_poly
+    (pts
+      (xy 3.904 -1.0745)
+      (xy 3.904 -0.1075)
+      (xy 3.904 -7.1633)
+      (xy 3.904 -6.1963)
+    ) (layer "F.SilkS") (stroke (width 0.1432) (type default)) (fill solid) (tstamp 171a73de-a97d-4167-bc99-f4658604f207))
+  (fp_poly
+    (pts
+      (xy 9.957 -1.0745)
+      (xy 9.957 -0.1075)
+      (xy 9.957 -7.1633)
+      (xy 9.957 -6.1963)
+    ) (layer "F.SilkS") (stroke (width 0.1432) (type default)) (fill solid) (tstamp b642a9ce-1154-4ce3-abf7-736de956b3ff))
+  (fp_rect (start 7.0917 -3.0981) (end 9.3302 -4.1726)
+    (layer "F.SilkS") (stroke (width 0.05) (type default)) (fill solid) (tstamp d600ba6c-fd39-47ce-942d-dd5aa0504801))
+)

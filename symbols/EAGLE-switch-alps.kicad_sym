@@ -1,0 +1,262 @@
+(kicad_symbol_lib (version 20220914) (generator Eagle2Kicad)
+  (symbol "EC12E_SW" (in_bom yes) (on_board yes)
+    (property "Reference" "SW" (at -10 -10 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left))
+    )
+    (property "Value" "EC12E_SW" (at 6.35 0 0)
+      (effects (font (size 1.27 1.27) (thickness 0.16)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:switch-alps.ALPS_EC12E_SW" (at 6.35 0 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 6.35 0 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (symbol "EC12E_SW_1_0"
+      (polyline
+        (pts
+          (xy -2.54 5.08)
+          (xy -2.54 4.1275)
+        )
+        (stroke (width 0.3048) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -2.54 4.1275)
+          (xy -0.9525 1.905)
+        )
+        (stroke (width 0.3048) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -1.905 1.905)
+          (xy -2.54 1.905)
+        )
+        (stroke (width 0.3048) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -2.54 1.905)
+          (xy -2.54 0)
+        )
+        (stroke (width 0.3048) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 2.54 5.08)
+          (xy 2.54 4.1275)
+        )
+        (stroke (width 0.3048) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 2.54 4.1275)
+          (xy 4.1275 1.905)
+        )
+        (stroke (width 0.3048) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 3.175 1.905)
+          (xy 2.54 1.905)
+        )
+        (stroke (width 0.3048) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 2.54 1.905)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.3048) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -2.54 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (text ">PART" (at -3.81 0 900)
+        (effects (font (size 1.27 1.27) (thickness 0.16)) (justify left bottom))
+      )
+      (circle (center 0 0) (radius 0.5679)
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 0 -2.54 90) (length 2.54)
+        (name "C" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "C" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+      (pin passive line (at -2.54 7.62 270) (length 2.54)
+        (name "A" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "A" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+      (pin passive line (at 2.54 7.62 270) (length 2.54)
+        (name "B" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "B" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "EC12E_SW_2_0"
+      (polyline
+        (pts
+          (xy -2.54 0)
+          (xy -1.5875 0)
+        )
+        (stroke (width 0.3048) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -1.5875 0)
+          (xy 0.635 1.5875)
+        )
+        (stroke (width 0.3048) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0.635 0.635)
+          (xy 0.635 0)
+        )
+        (stroke (width 0.3048) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0.635 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.3048) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 1.27)
+          (xy 0 3.81)
+        )
+        (stroke (width 0.127) (type dash))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -0.635 3.81)
+          (xy 0.635 3.81)
+        )
+        (stroke (width 0.127) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -0.635 3.81)
+          (xy -0.635 3.4925)
+        )
+        (stroke (width 0.127) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0.635 3.81)
+          (xy 0.635 3.4925)
+        )
+        (stroke (width 0.127) (type default))
+        (fill (type none))
+      )
+      (text ">PART" (at -5.08 5.08 0)
+        (effects (font (size 1.27 1.27) (thickness 0.16)) (justify left bottom))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "1" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "D" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+      (pin passive line (at -5.08 0 0) (length 2.54)
+        (name "2" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "E" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "EC12E_SW_3_0"
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 0.9525 0)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 1.5875 0)
+          (xy 2.2225 0)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 2.8575 0)
+          (xy 3.4925 0)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 4.1275 0)
+          (xy 5.08 0)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 0 0 0) (length 0)
+        (name "G" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "GND1" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "EC12E_SW_4_0"
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 0.9525 0)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 1.5875 0)
+          (xy 2.2225 0)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 2.8575 0)
+          (xy 3.4925 0)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 4.1275 0)
+          (xy 5.08 0)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 0 0 0) (length 0)
+        (name "G" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "GND2" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+  )
+)

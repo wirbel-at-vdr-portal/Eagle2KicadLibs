@@ -1,0 +1,5 @@
+(footprint "frames.LETTER_L" (version 20220914) (generator Eagle2Kicad)
+  (layer "F.Cu")
+  (tedit 64ca3d03)
+  (descr "FRAME LETTER landscape")
+)

@@ -1,0 +1,1622 @@
+(kicad_symbol_lib (version 20220914) (generator Eagle2Kicad)
+  (symbol "MT6-3" (in_bom yes) (on_board yes)
+    (property "Reference" "SV" (at -0.508 0.762 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "MT6-3" (at 0.254 -2.413 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:con-amp-mt6.MT6_3" (at 0.254 -2.413 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 0.254 -2.413 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (symbol "MT6-3_1_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "1" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-3_2_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "2" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-3_3_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "3" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+  )
+  (symbol "MT6-4" (in_bom yes) (on_board yes)
+    (property "Reference" "SV" (at -0.508 0.762 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "MT6-4" (at 0.254 -2.413 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:con-amp-mt6.MT6_4" (at 0.254 -2.413 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 0.254 -2.413 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (symbol "MT6-4_1_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "1" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-4_2_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "2" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-4_3_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "3" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-4_4_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "4" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+  )
+  (symbol "MT6-5" (in_bom yes) (on_board yes)
+    (property "Reference" "SV" (at -0.508 0.762 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "MT6-5" (at 0.254 -2.413 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:con-amp-mt6.MT6_5" (at 0.254 -2.413 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 0.254 -2.413 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (symbol "MT6-5_1_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "1" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-5_2_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "2" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-5_3_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "3" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-5_4_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "4" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-5_5_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "5" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+  )
+  (symbol "MT6-6" (in_bom yes) (on_board yes)
+    (property "Reference" "SV" (at -0.508 0.762 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "MT6-6" (at 0.254 -2.413 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:con-amp-mt6.MT6_6" (at 0.254 -2.413 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 0.254 -2.413 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (symbol "MT6-6_1_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "1" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-6_2_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "2" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-6_3_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "3" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-6_4_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "4" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-6_5_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "5" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-6_6_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "6" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+  )
+  (symbol "MT6-7" (in_bom yes) (on_board yes)
+    (property "Reference" "SV" (at -0.508 0.762 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "MT6-7" (at 0.254 -2.413 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:con-amp-mt6.MT6_7" (at 0.254 -2.413 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 0.254 -2.413 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (symbol "MT6-7_1_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "1" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-7_2_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "2" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-7_3_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "3" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-7_4_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "4" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-7_5_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "5" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-7_6_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "6" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-7_7_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "7" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+  )
+  (symbol "MT6-8" (in_bom yes) (on_board yes)
+    (property "Reference" "SV" (at -0.508 0.762 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "MT6-8" (at 0.254 -2.413 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:con-amp-mt6.MT6_8" (at 0.254 -2.413 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 0.254 -2.413 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (symbol "MT6-8_1_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "1" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-8_2_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "2" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-8_3_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "3" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-8_4_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "4" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-8_5_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "5" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-8_6_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "6" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-8_7_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "7" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-8_8_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "8" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+  )
+  (symbol "MT6-3Y" (in_bom yes) (on_board yes)
+    (property "Reference" "SV" (at -0.508 0.762 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "MT6-3Y" (at 0.254 -2.413 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:con-amp-mt6.MT6_3Y" (at 0.254 -2.413 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 0.254 -2.413 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (symbol "MT6-3Y_1_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "1" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-3Y_2_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "2" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-3Y_3_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "3" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+  )
+  (symbol "MT6-4Y" (in_bom yes) (on_board yes)
+    (property "Reference" "SV" (at -0.508 0.762 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "MT6-4Y" (at 0.254 -2.413 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:con-amp-mt6.MT6_4Y" (at 0.254 -2.413 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 0.254 -2.413 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (symbol "MT6-4Y_1_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "1" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-4Y_2_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "2" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-4Y_3_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "3" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-4Y_4_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "4" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+  )
+  (symbol "MT6-5Y" (in_bom yes) (on_board yes)
+    (property "Reference" "SV" (at -0.508 0.762 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "MT6-5Y" (at 0.254 -2.413 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:con-amp-mt6.MT6_5Y" (at 0.254 -2.413 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 0.254 -2.413 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (symbol "MT6-5Y_1_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "1" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-5Y_2_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "2" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-5Y_3_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "3" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-5Y_4_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "4" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-5Y_5_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "5" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+  )
+  (symbol "MT6-6Y" (in_bom yes) (on_board yes)
+    (property "Reference" "SV" (at -0.508 0.762 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "MT6-6Y" (at 0.254 -2.413 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:con-amp-mt6.MT6_6Y" (at 0.254 -2.413 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 0.254 -2.413 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (symbol "MT6-6Y_1_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "1" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-6Y_2_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "2" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-6Y_3_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "3" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-6Y_4_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "4" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-6Y_5_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "5" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-6Y_6_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "6" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+  )
+  (symbol "MT6-7Y" (in_bom yes) (on_board yes)
+    (property "Reference" "SV" (at -0.508 0.762 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "MT6-7Y" (at 0.254 -2.413 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:con-amp-mt6.MT6_7Y" (at 0.254 -2.413 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 0.254 -2.413 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (symbol "MT6-7Y_1_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "1" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-7Y_2_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "2" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-7Y_3_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "3" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-7Y_4_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "4" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-7Y_5_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "5" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-7Y_6_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "6" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-7Y_7_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "7" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+  )
+  (symbol "MT6-8Y" (in_bom yes) (on_board yes)
+    (property "Reference" "SV" (at -0.508 0.762 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "MT6-8Y" (at 0.254 -2.413 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:con-amp-mt6.MT6_8Y" (at 0.254 -2.413 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 0.254 -2.413 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (symbol "MT6-8Y_1_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "1" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-8Y_2_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "2" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-8Y_3_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "3" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-8Y_4_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "4" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-8Y_5_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "5" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-8Y_6_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "6" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-8Y_7_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "7" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "MT6-8Y_8_0"
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 2.54 0)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 1.27 0)
+        )
+        (stroke (width 0.6096) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "S" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "8" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+  )
+)

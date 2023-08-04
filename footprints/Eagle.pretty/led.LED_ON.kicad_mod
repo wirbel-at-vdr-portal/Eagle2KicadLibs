@@ -1,0 +1,21 @@
+(footprint "led.LED_ON" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (descr "LED ON Symbol for Silkscreen layer")
+  (fp_text reference "Ref**" (at 0 -1.7) (layer "F.SilkS")
+      (effects (font (size 1.27 1.27) (thickness 0.15)))
+    (tstamp d6d30e80-5016-4e4d-8329-c922e61156dc)
+  )
+  (fp_text value "Val**" (at 0.2 1.8) (layer "F.SilkS")
+      (effects (font (size 1.27 1.27) (thickness 0.15)))
+    (tstamp 0b40ae31-b0d7-41c8-91d8-135848edbf05)
+  )
+  (fp_poly
+    (pts
+      (xy 0 -0.762)
+      (xy -0.762 0)
+      (xy 0 0.762)
+      (xy 0.762 0)
+    )
+
+    (stroke (width 0.127) (type default)) (fill solid) (layer "F.SilkS") (tstamp babdb470-0211-4b11-a0bd-668a956eb52a))
+)

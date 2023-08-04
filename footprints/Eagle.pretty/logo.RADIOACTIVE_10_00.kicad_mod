@@ -1,0 +1,33 @@
+(footprint "logo.RADIOACTIVE_10_00" (version 20220914) (generator Eagle2Kicad)
+  (layer "F.Cu")
+  (tedit 64cac550)
+  (descr "Logo radioactive 10 mm")
+  (fp_poly
+    (pts
+      (xy 3.3172 -3.09)
+      (xy 4.2715 -4.7486)
+      (xy 4.9077 -3.6921)
+      (xy 4.5441 -3.09)
+    ) (layer "F.SilkS") (stroke (width 0.0454) (type default)) (fill solid) (tstamp 4727a7a1-72bf-45c4-8015-3440f0fce8d0))
+  (fp_poly
+    (pts
+      (xy 6.18 -1.4371)
+      (xy 4.2665 -1.4343)
+      (xy 4.8634 -2.5135)
+      (xy 5.5666 -2.4997)
+    ) (layer "F.SilkS") (stroke (width 0.0454) (type default)) (fill solid) (tstamp 76cace65-1708-408a-83f7-b42c23842657))
+  (fp_poly
+    (pts
+      (xy 6.18 -4.7428)
+      (xy 7.1392 -3.0871)
+      (xy 5.9062 -3.0644)
+      (xy 5.5666 -3.6803)
+    ) (layer "F.SilkS") (stroke (width 0.0454) (type default)) (fill solid) (tstamp 31888c89-04b1-44d6-8fcf-fc77ae1dd30b))
+  (fp_line (start 0.9088 -0.3181) (end 9.5427 -0.3181) (layer "F.SilkS") (stroke (width 0.6362) (type default)) (tstamp 4e6f342f-07eb-4052-85ac-76f836b19ae1))
+  (fp_arc (start 9.8153 -0.9088) (mid 9.86798343454816 -0.526236720403203) (end 9.5427 -0.3181) (layer "F.SilkS") (stroke (width 0.6362) (type default)) (tstamp 535b9b70-967d-4dea-9797-ba2555fa7ed5))
+  (fp_line (start 9.8153 -0.9088) (end 5.5438 -8.3612) (layer "F.SilkS") (stroke (width 0.6362) (type default)) (tstamp 4731772c-c684-401e-8abf-110c0297df89))
+  (fp_arc (start 4.9077 -8.3612) (mid 5.22575 -8.54549117888444) (end 5.5438 -8.3612) (layer "F.SilkS") (stroke (width 0.6362) (type default)) (tstamp 533c27f5-fd7c-49e1-9c09-65d86ed2c510))
+  (fp_arc (start 0.9088 -0.3181) (mid 0.583516565451841 -0.526236720403203) (end 0.6362 -0.9088) (layer "F.SilkS") (stroke (width 0.6362) (type default)) (tstamp fd5f1b85-9586-42a9-9309-e9e1f617999f))
+  (fp_line (start 0.6362 -0.9088) (end 4.9077 -8.3612) (layer "F.SilkS") (stroke (width 0.6362) (type default)) (tstamp 1815b398-8834-4d13-8015-1f615f06322e))
+  (fp_circle (center 5.2258 -3.09) (end 5.6347 -3.09) (layer "F.SilkS") (stroke (width 0) (type default)) (fill none) (tstamp f60a6127-f638-42bb-a698-824b0679c125))
+)

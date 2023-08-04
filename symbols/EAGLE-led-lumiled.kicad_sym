@@ -1,0 +1,466 @@
+(kicad_symbol_lib (version 20220914) (generator Eagle2Kicad)
+  (symbol "LUXEON_REBEL" (in_bom yes) (on_board yes)
+    (property "Reference" "LED" (at 3.556 -4.572 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "LUXEON_REBEL" (at 5.715 -4.572 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:led-lumiled.LUXEON_REBEL" (at 5.715 -4.572 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 5.715 -4.572 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (symbol "LUXEON_REBEL_1_0"
+      (polyline
+        (pts
+          (xy -3.429 -2.159)
+          (xy -3.048 -1.27)
+          (xy -2.54 -1.778)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type outline))
+      )
+      (polyline
+        (pts
+          (xy -3.302 -3.302)
+          (xy -2.921 -2.413)
+          (xy -2.413 -2.921)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type outline))
+      )
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 0 -2.54)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 -2.54)
+          (xy -1.27 0)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 1.27 -2.54)
+          (xy 0 -2.54)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 -2.54)
+          (xy -1.27 -2.54)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 0 0)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy -1.27 0)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 0 -2.54)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -2.032 -0.762)
+          (xy -3.429 -2.159)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -1.905 -1.905)
+          (xy -3.302 -3.302)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 0 -5.08 90) (length 2.54)
+        (name "C" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "C C@1" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+      (pin passive line (at 0 2.54 270) (length 2.54)
+        (name "A" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "A A@1" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "LUXEON_REBEL_2_0"
+      (pin unspecified line (at 0 -2.54 90) (length 2.54)
+        (name "TH" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "TH TH@1 TH@2 TH@3 TH@4" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+  )
+  (symbol "LEDLUMILED" (in_bom yes) (on_board yes)
+    (property "Reference" "LED" (at 3.556 -4.572 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "LED" (at 5.715 -4.572 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:led-lumiled.LUMILED" (at 5.715 -4.572 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 5.715 -4.572 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (polyline
+      (pts
+        (xy -3.429 -2.159)
+        (xy -3.048 -1.27)
+        (xy -2.54 -1.778)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type outline))
+    )
+    (polyline
+      (pts
+        (xy -3.302 -3.302)
+        (xy -2.921 -2.413)
+        (xy -2.413 -2.921)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type outline))
+    )
+    (polyline
+      (pts
+        (xy 1.27 0)
+        (xy 0 -2.54)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 0 -2.54)
+        (xy -1.27 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 1.27 -2.54)
+        (xy 0 -2.54)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 0 -2.54)
+        (xy -1.27 -2.54)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 1.27 0)
+        (xy 0 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 0 0)
+        (xy -1.27 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 0 0)
+        (xy 0 -2.54)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.032 -0.762)
+        (xy -3.429 -2.159)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -1.905 -1.905)
+        (xy -3.302 -3.302)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (pin passive line (at 0 -5.08 90) (length 2.54)
+      (name "C" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      (number "4-" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+    )
+    (pin passive line (at 0 2.54 270) (length 2.54)
+      (name "A" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      (number "2+" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+    )
+  )
+  (symbol "LEDLUMILED+" (in_bom yes) (on_board yes)
+    (property "Reference" "LED" (at 3.556 -4.572 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "LED" (at 5.715 -4.572 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:led-lumiled.LUMILED_" (at 5.715 -4.572 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 5.715 -4.572 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (polyline
+      (pts
+        (xy -3.429 -2.159)
+        (xy -3.048 -1.27)
+        (xy -2.54 -1.778)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type outline))
+    )
+    (polyline
+      (pts
+        (xy -3.302 -3.302)
+        (xy -2.921 -2.413)
+        (xy -2.413 -2.921)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type outline))
+    )
+    (polyline
+      (pts
+        (xy 1.27 0)
+        (xy 0 -2.54)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 0 -2.54)
+        (xy -1.27 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 1.27 -2.54)
+        (xy 0 -2.54)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 0 -2.54)
+        (xy -1.27 -2.54)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 1.27 0)
+        (xy 0 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 0 0)
+        (xy -1.27 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 0 0)
+        (xy 0 -2.54)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.032 -0.762)
+        (xy -3.429 -2.159)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -1.905 -1.905)
+        (xy -3.302 -3.302)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (pin passive line (at 0 -5.08 90) (length 2.54)
+      (name "C" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      (number "4-" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+    )
+    (pin passive line (at 0 2.54 270) (length 2.54)
+      (name "A" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      (number "2+" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+    )
+  )
+  (symbol "LUXEON_REBEL+COOLPAD" (in_bom yes) (on_board yes)
+    (property "Reference" "LED" (at -2.54 1.143 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "LUXEON_REBEL+COOLPAD" (at -10 -10 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left))
+    )
+    (property "Footprint" "Eagle:led-lumiled.LUXEON_REBEL_COOLPAD" (at -10 -10 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left) hide)
+    )
+    (property "Datasheet" "" (at -10 -10 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left) hide)
+    )
+    (symbol "LUXEON_REBEL+COOLPAD_1_0"
+      (pin unspecified line (at 0 -2.54 90) (length 2.54)
+        (name "TH" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "TH TH@1 TH@2 TH@3 TH@4 TH@5 TH@6 TH@7 TH@8 TH@9 TH@10 TH@11 TH@12 TH@13 TH@14 TH@15 TH@16 TH@17 TH@18 TH@19 TH@20 TH@21 TH@22 TH@23 TH@24 TH@25 TH@26 TH@27 TH@28 TH@29 TH@30 TH@31 TH@32 TH@33 TH@34 TH@35" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "LUXEON_REBEL+COOLPAD_2_0"
+      (polyline
+        (pts
+          (xy -3.429 -2.159)
+          (xy -3.048 -1.27)
+          (xy -2.54 -1.778)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type outline))
+      )
+      (polyline
+        (pts
+          (xy -3.302 -3.302)
+          (xy -2.921 -2.413)
+          (xy -2.413 -2.921)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type outline))
+      )
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 0 -2.54)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 -2.54)
+          (xy -1.27 0)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 1.27 -2.54)
+          (xy 0 -2.54)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 -2.54)
+          (xy -1.27 -2.54)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 0 0)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy -1.27 0)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 0 -2.54)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -2.032 -0.762)
+          (xy -3.429 -2.159)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -1.905 -1.905)
+          (xy -3.302 -3.302)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at 0 -5.08 90) (length 2.54)
+        (name "C" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "C C@1" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+      (pin passive line (at 0 2.54 270) (length 2.54)
+        (name "A" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "A A@1" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+  )
+)

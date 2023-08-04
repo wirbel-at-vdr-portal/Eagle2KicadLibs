@@ -1,0 +1,632 @@
+(kicad_symbol_lib (version 20220914) (generator Eagle2Kicad)
+  (symbol "CL652S" (in_bom yes) (on_board yes)
+    (property "Reference" "LED" (at 2.54 2.54 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "CL652S" (at 5.08 0 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:led-citizen-electronics.CL652S" (at 5.08 0 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 5.08 0 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (symbol "CL652S_1_0"
+      (polyline
+        (pts
+          (xy 3.429 0.381)
+          (xy 3.048 1.27)
+          (xy 2.54 0.762)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type outline))
+      )
+      (polyline
+        (pts
+          (xy 3.302 -0.762)
+          (xy 2.921 0.127)
+          (xy 2.413 -0.381)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type outline))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy -1.27 2.54)
+          (xy 1.27 2.54)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type outline))
+      )
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 0 0)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy -1.27 0)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 2.032 1.778)
+          (xy 3.429 0.381)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 1.905 0.635)
+          (xy 3.302 -0.762)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 5.08)
+          (xy 0 -2.54)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at -2.54 -2.54 0) (length 2.54)
+        (name "C" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "2" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+      (pin passive line (at -2.54 5.08 0) (length 2.54)
+        (name "A" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "1" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "CL652S_2_0"
+      (polyline
+        (pts
+          (xy 3.429 0.381)
+          (xy 3.048 1.27)
+          (xy 2.54 0.762)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type outline))
+      )
+      (polyline
+        (pts
+          (xy 3.302 -0.762)
+          (xy 2.921 0.127)
+          (xy 2.413 -0.381)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type outline))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy -1.27 2.54)
+          (xy 1.27 2.54)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type outline))
+      )
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 0 0)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy -1.27 0)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 2.032 1.778)
+          (xy 3.429 0.381)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 1.905 0.635)
+          (xy 3.302 -0.762)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 5.08)
+          (xy 0 -2.54)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at -2.54 -2.54 0) (length 2.54)
+        (name "C" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "4" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+      (pin passive line (at -2.54 5.08 0) (length 2.54)
+        (name "A" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "3" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "CL652S_3_0"
+      (polyline
+        (pts
+          (xy 3.429 0.381)
+          (xy 3.048 1.27)
+          (xy 2.54 0.762)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type outline))
+      )
+      (polyline
+        (pts
+          (xy 3.302 -0.762)
+          (xy 2.921 0.127)
+          (xy 2.413 -0.381)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type outline))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy -1.27 2.54)
+          (xy 1.27 2.54)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type outline))
+      )
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 0 0)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy -1.27 0)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 2.032 1.778)
+          (xy 3.429 0.381)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 1.905 0.635)
+          (xy 3.302 -0.762)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 5.08)
+          (xy 0 -2.54)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at -2.54 -2.54 0) (length 2.54)
+        (name "C" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "6" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+      (pin passive line (at -2.54 5.08 0) (length 2.54)
+        (name "A" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "5" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "CL652S_4_0"
+      (polyline
+        (pts
+          (xy 3.429 0.381)
+          (xy 3.048 1.27)
+          (xy 2.54 0.762)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type outline))
+      )
+      (polyline
+        (pts
+          (xy 3.302 -0.762)
+          (xy 2.921 0.127)
+          (xy 2.413 -0.381)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type outline))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy -1.27 2.54)
+          (xy 1.27 2.54)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type outline))
+      )
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 0 0)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy -1.27 0)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 2.032 1.778)
+          (xy 3.429 0.381)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 1.905 0.635)
+          (xy 3.302 -0.762)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 5.08)
+          (xy 0 -2.54)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at -2.54 -2.54 0) (length 2.54)
+        (name "C" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "8" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+      (pin passive line (at -2.54 5.08 0) (length 2.54)
+        (name "A" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "7" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "CL652S_5_0"
+      (polyline
+        (pts
+          (xy 3.429 0.381)
+          (xy 3.048 1.27)
+          (xy 2.54 0.762)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type outline))
+      )
+      (polyline
+        (pts
+          (xy 3.302 -0.762)
+          (xy 2.921 0.127)
+          (xy 2.413 -0.381)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type outline))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy -1.27 2.54)
+          (xy 1.27 2.54)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type outline))
+      )
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 0 0)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy -1.27 0)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 2.032 1.778)
+          (xy 3.429 0.381)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 1.905 0.635)
+          (xy 3.302 -0.762)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 5.08)
+          (xy 0 -2.54)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at -2.54 -2.54 0) (length 2.54)
+        (name "C" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "10" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+      (pin passive line (at -2.54 5.08 0) (length 2.54)
+        (name "A" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "9" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "CL652S_6_0"
+      (polyline
+        (pts
+          (xy 3.429 0.381)
+          (xy 3.048 1.27)
+          (xy 2.54 0.762)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type outline))
+      )
+      (polyline
+        (pts
+          (xy 3.302 -0.762)
+          (xy 2.921 0.127)
+          (xy 2.413 -0.381)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type outline))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy -1.27 2.54)
+          (xy 1.27 2.54)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type outline))
+      )
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 0 0)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy -1.27 0)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 2.032 1.778)
+          (xy 3.429 0.381)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 1.905 0.635)
+          (xy 3.302 -0.762)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 5.08)
+          (xy 0 -2.54)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at -2.54 -2.54 0) (length 2.54)
+        (name "C" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "12" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+      (pin passive line (at -2.54 5.08 0) (length 2.54)
+        (name "A" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "11" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "CL652S_7_0"
+      (polyline
+        (pts
+          (xy 3.429 0.381)
+          (xy 3.048 1.27)
+          (xy 2.54 0.762)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type outline))
+      )
+      (polyline
+        (pts
+          (xy 3.302 -0.762)
+          (xy 2.921 0.127)
+          (xy 2.413 -0.381)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type outline))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy -1.27 2.54)
+          (xy 1.27 2.54)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type outline))
+      )
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 0 0)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy -1.27 0)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 2.032 1.778)
+          (xy 3.429 0.381)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 1.905 0.635)
+          (xy 3.302 -0.762)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 5.08)
+          (xy 0 -2.54)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at -2.54 -2.54 0) (length 2.54)
+        (name "C" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "14" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+      (pin passive line (at -2.54 5.08 0) (length 2.54)
+        (name "A" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "13" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+    (symbol "CL652S_8_0"
+      (polyline
+        (pts
+          (xy 3.429 0.381)
+          (xy 3.048 1.27)
+          (xy 2.54 0.762)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type outline))
+      )
+      (polyline
+        (pts
+          (xy 3.302 -0.762)
+          (xy 2.921 0.127)
+          (xy 2.413 -0.381)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type outline))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy -1.27 2.54)
+          (xy 1.27 2.54)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type outline))
+      )
+      (polyline
+        (pts
+          (xy 1.27 0)
+          (xy 0 0)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy -1.27 0)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 2.032 1.778)
+          (xy 3.429 0.381)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 1.905 0.635)
+          (xy 3.302 -0.762)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 5.08)
+          (xy 0 -2.54)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+      (pin passive line (at -2.54 -2.54 0) (length 2.54)
+        (name "C" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "16" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+      (pin passive line (at -2.54 5.08 0) (length 2.54)
+        (name "A" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+        (number "15" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      )
+    )
+  )
+)

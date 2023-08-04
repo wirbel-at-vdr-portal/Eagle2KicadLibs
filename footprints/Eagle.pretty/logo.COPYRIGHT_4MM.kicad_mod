@@ -1,0 +1,7 @@
+(footprint "logo.COPYRIGHT_4MM" (version 20220914) (generator Eagle2Kicad)
+  (layer "F.Cu")
+  (tedit 64cac550)
+  (descr "Copyright symbol 4mm ")
+  (fp_arc (start 3.33 -2.805) (mid 3.53832824328877 -2.055) (end 3.33 -1.305) (layer "F.Cu") (stroke (width 0.35) (type default)) (tstamp c2aa1b6a-b3bb-4b30-84d1-d0147123f4a7))
+  (fp_circle (center 2.08 -2.055) (end 4.08 -2.055) (layer "F.Cu") (stroke (width 0.1) (type default)) (fill none) (tstamp 547c61cb-624a-42e9-bb56-bdcf41ec4a37))
+)

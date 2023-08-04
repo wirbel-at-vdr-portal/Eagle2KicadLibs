@@ -1,0 +1,21 @@
+(footprint "logo.CE_20MM" (version 20220914) (generator Eagle2Kicad)
+  (layer "F.Cu")
+  (tedit 64cac550)
+  (descr "Logo: import from bit map with import-bmp.ulp")
+  (fp_poly
+    (pts
+      (xy 10.9 -3)
+      (xy 10.9 -0.3)
+      (xy 10.9 -20)
+      (xy 10.9 -17.3)
+    ) (layer "F.SilkS") (stroke (width 0.4) (type default)) (fill solid) (tstamp 61947fe3-6316-460b-adc3-6e7483e154f8))
+  (fp_poly
+    (pts
+      (xy 27.8 -3)
+      (xy 27.8 -0.3)
+      (xy 27.8 -20)
+      (xy 27.8 -17.3)
+    ) (layer "F.SilkS") (stroke (width 0.4) (type default)) (fill solid) (tstamp b1a744ff-7a2a-4abd-96b8-66e3f834e7a0))
+  (fp_rect (start 19.8 -8.65) (end 26.05 -11.65)
+    (layer "F.SilkS") (stroke (width 0.05) (type default)) (fill solid) (tstamp 285da401-1037-4b9e-8207-eee9128947cf))
+)

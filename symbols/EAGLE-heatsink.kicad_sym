@@ -1,0 +1,4958 @@
+(kicad_symbol_lib (version 20220914) (generator Eagle2Kicad)
+  (symbol "D0A-L" (in_bom yes) (on_board yes)
+    (property "Reference" "KK" (at 5.715 3.175 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "D0A-L" (at 5.715 0.635 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:heatsink.D02A_L" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (polyline
+      (pts
+        (xy -5.08 0)
+        (xy 5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 0)
+        (xy 5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 5.08)
+        (xy 4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 5.08)
+        (xy 4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 1.27)
+        (xy 3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 1.27)
+        (xy 3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 5.08)
+        (xy 2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 5.08)
+        (xy 2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 1.27)
+        (xy -2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 1.27)
+        (xy -2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 5.08)
+        (xy -3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 5.08)
+        (xy -3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 1.27)
+        (xy -4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 1.27)
+        (xy -4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 5.08)
+        (xy -5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -5.08 5.08)
+        (xy -5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+  )
+  (symbol "FK218" (in_bom yes) (on_board yes)
+    (property "Reference" "KK" (at 5.715 3.175 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "FK218" (at 5.715 0.635 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:heatsink.FK218" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (polyline
+      (pts
+        (xy -5.08 0)
+        (xy 5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 0)
+        (xy 5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 5.08)
+        (xy 4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 5.08)
+        (xy 4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 1.27)
+        (xy 3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 1.27)
+        (xy 3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 5.08)
+        (xy 2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 5.08)
+        (xy 2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 1.27)
+        (xy -2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 1.27)
+        (xy -2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 5.08)
+        (xy -3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 5.08)
+        (xy -3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 1.27)
+        (xy -4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 1.27)
+        (xy -4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 5.08)
+        (xy -5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -5.08 5.08)
+        (xy -5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (pin passive line (at -5.08 -2.54 90) (length 2.54)
+      (name "K@1" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      (number "A2,2" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+    )
+    (pin passive line (at 5.08 -2.54 90) (length 2.54)
+      (name "K@2" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      (number "B2,2" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+    )
+  )
+  (symbol "SK104" (in_bom yes) (on_board yes)
+    (property "Reference" "KK" (at 5.715 3.175 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "SK104" (at 5.715 0.635 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:heatsink.SK104" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (polyline
+      (pts
+        (xy -5.08 0)
+        (xy 5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 0)
+        (xy 5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 5.08)
+        (xy 4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 5.08)
+        (xy 4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 1.27)
+        (xy 3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 1.27)
+        (xy 3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 5.08)
+        (xy 2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 5.08)
+        (xy 2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 1.27)
+        (xy -2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 1.27)
+        (xy -2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 5.08)
+        (xy -3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 5.08)
+        (xy -3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 1.27)
+        (xy -4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 1.27)
+        (xy -4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 5.08)
+        (xy -5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -5.08 5.08)
+        (xy -5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+  )
+  (symbol "SK129" (in_bom yes) (on_board yes)
+    (property "Reference" "KK" (at 5.715 3.175 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "SK129" (at 5.715 0.635 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:heatsink.SK129_HOLE" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (polyline
+      (pts
+        (xy -5.08 0)
+        (xy 5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 0)
+        (xy 5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 5.08)
+        (xy 4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 5.08)
+        (xy 4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 1.27)
+        (xy 3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 1.27)
+        (xy 3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 5.08)
+        (xy 2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 5.08)
+        (xy 2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 1.27)
+        (xy -2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 1.27)
+        (xy -2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 5.08)
+        (xy -3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 5.08)
+        (xy -3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 1.27)
+        (xy -4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 1.27)
+        (xy -4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 5.08)
+        (xy -5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -5.08 5.08)
+        (xy -5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+  )
+  (symbol "D02P-PAD" (in_bom yes) (on_board yes)
+    (property "Reference" "KK" (at 5.715 3.175 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "D02P-PAD" (at 5.715 0.635 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:heatsink.D02PA_PAD" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (polyline
+      (pts
+        (xy -5.08 0)
+        (xy 5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 0)
+        (xy 5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 5.08)
+        (xy 4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 5.08)
+        (xy 4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 1.27)
+        (xy 3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 1.27)
+        (xy 3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 5.08)
+        (xy 2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 5.08)
+        (xy 2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 1.27)
+        (xy -2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 1.27)
+        (xy -2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 5.08)
+        (xy -3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 5.08)
+        (xy -3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 1.27)
+        (xy -4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 1.27)
+        (xy -4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 5.08)
+        (xy -5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -5.08 5.08)
+        (xy -5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (pin passive line (at -5.08 -2.54 90) (length 2.54)
+      (name "K@1" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      (number "B" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+    )
+  )
+  (symbol "FK201" (in_bom yes) (on_board yes)
+    (property "Reference" "KK" (at 5.715 3.175 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "FK201" (at 5.715 0.635 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:heatsink.FK201" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (polyline
+      (pts
+        (xy -5.08 0)
+        (xy 5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 0)
+        (xy 5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 5.08)
+        (xy 4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 5.08)
+        (xy 4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 1.27)
+        (xy 3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 1.27)
+        (xy 3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 5.08)
+        (xy 2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 5.08)
+        (xy 2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 1.27)
+        (xy -2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 1.27)
+        (xy -2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 5.08)
+        (xy -3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 5.08)
+        (xy -3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 1.27)
+        (xy -4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 1.27)
+        (xy -4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 5.08)
+        (xy -5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -5.08 5.08)
+        (xy -5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+  )
+  (symbol "FK222" (in_bom yes) (on_board yes)
+    (property "Reference" "KK" (at 5.715 3.175 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "FK222" (at 5.715 0.635 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:heatsink.FK222" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (polyline
+      (pts
+        (xy -5.08 0)
+        (xy 5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 0)
+        (xy 5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 5.08)
+        (xy 4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 5.08)
+        (xy 4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 1.27)
+        (xy 3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 1.27)
+        (xy 3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 5.08)
+        (xy 2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 5.08)
+        (xy 2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 1.27)
+        (xy -2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 1.27)
+        (xy -2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 5.08)
+        (xy -3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 5.08)
+        (xy -3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 1.27)
+        (xy -4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 1.27)
+        (xy -4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 5.08)
+        (xy -5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -5.08 5.08)
+        (xy -5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (pin passive line (at -5.08 -2.54 90) (length 2.54)
+      (name "K@1" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      (number "A2,8" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+    )
+    (pin passive line (at 5.08 -2.54 90) (length 2.54)
+      (name "K@2" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      (number "B2,8" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+    )
+  )
+  (symbol "KK185" (in_bom yes) (on_board yes)
+    (property "Reference" "KK" (at 3.81 -2.54 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "KK185" (at 1.143 -5.08 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:heatsink.KK185" (at 1.143 -5.08 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 1.143 -5.08 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (polyline
+      (pts
+        (xy 0 3.175)
+        (xy 0 1.27)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 0.889 0.889)
+        (xy 2.286 2.286)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 1.27 0)
+        (xy 3.175 0)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 0.889 -0.889)
+        (xy 2.286 -2.286)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 0 -1.27)
+        (xy 0 -3.175)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.286 -2.286)
+        (xy -0.889 -0.889)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 0)
+        (xy -1.27 0)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.286 2.286)
+        (xy -0.889 0.889)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (circle (center 0 0) (radius 1.27)
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+  )
+  (symbol "KK505" (in_bom yes) (on_board yes)
+    (property "Reference" "KK" (at 3.81 -2.54 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "KK505" (at 1.143 -5.08 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:heatsink.KK505" (at 1.143 -5.08 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 1.143 -5.08 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (polyline
+      (pts
+        (xy 0 3.175)
+        (xy 0 1.27)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 0.889 0.889)
+        (xy 2.286 2.286)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 1.27 0)
+        (xy 3.175 0)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 0.889 -0.889)
+        (xy 2.286 -2.286)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 0 -1.27)
+        (xy 0 -3.175)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.286 -2.286)
+        (xy -0.889 -0.889)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 0)
+        (xy -1.27 0)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.286 2.286)
+        (xy -0.889 0.889)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (circle (center 0 0) (radius 1.27)
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+  )
+  (symbol "SK12/25" (in_bom yes) (on_board yes)
+    (property "Reference" "KK" (at 5.715 3.175 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "SK12/25" (at 5.715 0.635 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:heatsink.SK12_25" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (polyline
+      (pts
+        (xy -5.08 0)
+        (xy 5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 0)
+        (xy 5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 5.08)
+        (xy 4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 5.08)
+        (xy 4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 1.27)
+        (xy 3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 1.27)
+        (xy 3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 5.08)
+        (xy 2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 5.08)
+        (xy 2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 1.27)
+        (xy -2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 1.27)
+        (xy -2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 5.08)
+        (xy -3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 5.08)
+        (xy -3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 1.27)
+        (xy -4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 1.27)
+        (xy -4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 5.08)
+        (xy -5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -5.08 5.08)
+        (xy -5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+  )
+  (symbol "SK13/35" (in_bom yes) (on_board yes)
+    (property "Reference" "KK" (at 5.715 3.175 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "SK13/35" (at 5.715 0.635 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:heatsink.SK13_35" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (polyline
+      (pts
+        (xy -5.08 0)
+        (xy 5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 0)
+        (xy 5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 5.08)
+        (xy 4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 5.08)
+        (xy 4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 1.27)
+        (xy 3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 1.27)
+        (xy 3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 5.08)
+        (xy 2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 5.08)
+        (xy 2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 1.27)
+        (xy -2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 1.27)
+        (xy -2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 5.08)
+        (xy -3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 5.08)
+        (xy -3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 1.27)
+        (xy -4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 1.27)
+        (xy -4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 5.08)
+        (xy -5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -5.08 5.08)
+        (xy -5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+  )
+  (symbol "SK68/37" (in_bom yes) (on_board yes)
+    (property "Reference" "KK" (at 5.715 3.175 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "SK68/37" (at 5.715 0.635 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:heatsink.SK68_37" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (polyline
+      (pts
+        (xy -5.08 0)
+        (xy 5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 0)
+        (xy 5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 5.08)
+        (xy 4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 5.08)
+        (xy 4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 1.27)
+        (xy 3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 1.27)
+        (xy 3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 5.08)
+        (xy 2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 5.08)
+        (xy 2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 1.27)
+        (xy -2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 1.27)
+        (xy -2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 5.08)
+        (xy -3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 5.08)
+        (xy -3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 1.27)
+        (xy -4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 1.27)
+        (xy -4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 5.08)
+        (xy -5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -5.08 5.08)
+        (xy -5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+  )
+  (symbol "SK68/50" (in_bom yes) (on_board yes)
+    (property "Reference" "KK" (at 5.715 3.175 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "SK68/50" (at 5.715 0.635 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:heatsink.SK68_50" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (polyline
+      (pts
+        (xy -5.08 0)
+        (xy 5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 0)
+        (xy 5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 5.08)
+        (xy 4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 5.08)
+        (xy 4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 1.27)
+        (xy 3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 1.27)
+        (xy 3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 5.08)
+        (xy 2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 5.08)
+        (xy 2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 1.27)
+        (xy -2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 1.27)
+        (xy -2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 5.08)
+        (xy -3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 5.08)
+        (xy -3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 1.27)
+        (xy -4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 1.27)
+        (xy -4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 5.08)
+        (xy -5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -5.08 5.08)
+        (xy -5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+  )
+  (symbol "SK95-2M3" (in_bom yes) (on_board yes)
+    (property "Reference" "KK" (at 5.715 3.175 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "SK95-2M3" (at 5.715 0.635 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:heatsink.SK95_2M3" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (polyline
+      (pts
+        (xy -5.08 0)
+        (xy 5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 0)
+        (xy 5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 5.08)
+        (xy 4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 5.08)
+        (xy 4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 1.27)
+        (xy 3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 1.27)
+        (xy 3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 5.08)
+        (xy 2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 5.08)
+        (xy 2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 1.27)
+        (xy -2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 1.27)
+        (xy -2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 5.08)
+        (xy -3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 5.08)
+        (xy -3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 1.27)
+        (xy -4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 1.27)
+        (xy -4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 5.08)
+        (xy -5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -5.08 5.08)
+        (xy -5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+  )
+  (symbol "SK125/50" (in_bom yes) (on_board yes)
+    (property "Reference" "KK" (at 5.715 3.175 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "SK125/50" (at 5.715 0.635 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:heatsink.SK125_50" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (polyline
+      (pts
+        (xy -5.08 0)
+        (xy 5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 0)
+        (xy 5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 5.08)
+        (xy 4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 5.08)
+        (xy 4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 1.27)
+        (xy 3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 1.27)
+        (xy 3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 5.08)
+        (xy 2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 5.08)
+        (xy 2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 1.27)
+        (xy -2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 1.27)
+        (xy -2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 5.08)
+        (xy -3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 5.08)
+        (xy -3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 1.27)
+        (xy -4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 1.27)
+        (xy -4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 5.08)
+        (xy -5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -5.08 5.08)
+        (xy -5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+  )
+  (symbol "SK125/84" (in_bom yes) (on_board yes)
+    (property "Reference" "KK" (at 5.715 3.175 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "SK125/84" (at 5.715 0.635 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:heatsink.SK125_84" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (polyline
+      (pts
+        (xy -5.08 0)
+        (xy 5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 0)
+        (xy 5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 5.08)
+        (xy 4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 5.08)
+        (xy 4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 1.27)
+        (xy 3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 1.27)
+        (xy 3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 5.08)
+        (xy 2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 5.08)
+        (xy 2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 1.27)
+        (xy -2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 1.27)
+        (xy -2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 5.08)
+        (xy -3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 5.08)
+        (xy -3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 1.27)
+        (xy -4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 1.27)
+        (xy -4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 5.08)
+        (xy -5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -5.08 5.08)
+        (xy -5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+  )
+  (symbol "SK96/84" (in_bom yes) (on_board yes)
+    (property "Reference" "KK" (at 5.715 3.175 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "SK96/84" (at 5.715 0.635 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:heatsink.SK96_84" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (polyline
+      (pts
+        (xy -5.08 0)
+        (xy 5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 0)
+        (xy 5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 5.08)
+        (xy 4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 5.08)
+        (xy 4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 1.27)
+        (xy 3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 1.27)
+        (xy 3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 5.08)
+        (xy 2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 5.08)
+        (xy 2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 1.27)
+        (xy -2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 1.27)
+        (xy -2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 5.08)
+        (xy -3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 5.08)
+        (xy -3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 1.27)
+        (xy -4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 1.27)
+        (xy -4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 5.08)
+        (xy -5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -5.08 5.08)
+        (xy -5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+  )
+  (symbol "D01PA-PAD" (in_bom yes) (on_board yes)
+    (property "Reference" "KK" (at 5.715 3.175 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "D01PA-PAD" (at 5.715 0.635 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:heatsink.D01PA_PAD" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (polyline
+      (pts
+        (xy -5.08 0)
+        (xy 5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 0)
+        (xy 5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 5.08)
+        (xy 4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 5.08)
+        (xy 4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 1.27)
+        (xy 3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 1.27)
+        (xy 3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 5.08)
+        (xy 2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 5.08)
+        (xy 2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 1.27)
+        (xy -2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 1.27)
+        (xy -2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 5.08)
+        (xy -3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 5.08)
+        (xy -3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 1.27)
+        (xy -4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 1.27)
+        (xy -4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 5.08)
+        (xy -5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -5.08 5.08)
+        (xy -5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+  )
+  (symbol "D01S" (in_bom yes) (on_board yes)
+    (property "Reference" "KK" (at 5.715 3.175 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "D01S" (at 5.715 0.635 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:heatsink.D01S" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (polyline
+      (pts
+        (xy -5.08 0)
+        (xy 5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 0)
+        (xy 5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 5.08)
+        (xy 4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 5.08)
+        (xy 4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 1.27)
+        (xy 3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 1.27)
+        (xy 3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 5.08)
+        (xy 2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 5.08)
+        (xy 2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 1.27)
+        (xy -2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 1.27)
+        (xy -2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 5.08)
+        (xy -3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 5.08)
+        (xy -3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 1.27)
+        (xy -4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 1.27)
+        (xy -4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 5.08)
+        (xy -5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -5.08 5.08)
+        (xy -5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+  )
+  (symbol "D02S" (in_bom yes) (on_board yes)
+    (property "Reference" "KK" (at 5.715 3.175 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "D02S" (at 5.715 0.635 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:heatsink.D02S" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (polyline
+      (pts
+        (xy -5.08 0)
+        (xy 5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 0)
+        (xy 5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 5.08)
+        (xy 4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 5.08)
+        (xy 4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 1.27)
+        (xy 3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 1.27)
+        (xy 3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 5.08)
+        (xy 2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 5.08)
+        (xy 2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 1.27)
+        (xy -2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 1.27)
+        (xy -2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 5.08)
+        (xy -3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 5.08)
+        (xy -3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 1.27)
+        (xy -4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 1.27)
+        (xy -4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 5.08)
+        (xy -5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -5.08 5.08)
+        (xy -5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+  )
+  (symbol "D03PA-PAD" (in_bom yes) (on_board yes)
+    (property "Reference" "KK" (at 5.715 3.175 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "D03PA-PAD" (at 5.715 0.635 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:heatsink.D03PA_PAD" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (polyline
+      (pts
+        (xy -5.08 0)
+        (xy 5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 0)
+        (xy 5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 5.08)
+        (xy 4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 5.08)
+        (xy 4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 1.27)
+        (xy 3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 1.27)
+        (xy 3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 5.08)
+        (xy 2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 5.08)
+        (xy 2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 1.27)
+        (xy -2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 1.27)
+        (xy -2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 5.08)
+        (xy -3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 5.08)
+        (xy -3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 1.27)
+        (xy -4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 1.27)
+        (xy -4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 5.08)
+        (xy -5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -5.08 5.08)
+        (xy -5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (pin passive line (at -5.08 -2.54 90) (length 2.54)
+      (name "K@1" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      (number "B" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+    )
+  )
+  (symbol "D03S" (in_bom yes) (on_board yes)
+    (property "Reference" "KK" (at 5.715 3.175 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "D03S" (at 5.715 0.635 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:heatsink.D03S" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (polyline
+      (pts
+        (xy -5.08 0)
+        (xy 5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 0)
+        (xy 5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 5.08)
+        (xy 4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 5.08)
+        (xy 4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 1.27)
+        (xy 3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 1.27)
+        (xy 3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 5.08)
+        (xy 2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 5.08)
+        (xy 2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 1.27)
+        (xy -2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 1.27)
+        (xy -2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 5.08)
+        (xy -3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 5.08)
+        (xy -3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 1.27)
+        (xy -4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 1.27)
+        (xy -4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 5.08)
+        (xy -5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -5.08 5.08)
+        (xy -5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+  )
+  (symbol "SK36/37" (in_bom yes) (on_board yes)
+    (property "Reference" "KK" (at 5.715 3.175 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "SK36/37" (at 5.715 0.635 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:heatsink.SK36_37" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (polyline
+      (pts
+        (xy -5.08 0)
+        (xy 5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 0)
+        (xy 5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 5.08)
+        (xy 4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 5.08)
+        (xy 4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 1.27)
+        (xy 3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 1.27)
+        (xy 3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 5.08)
+        (xy 2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 5.08)
+        (xy 2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 1.27)
+        (xy -2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 1.27)
+        (xy -2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 5.08)
+        (xy -3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 5.08)
+        (xy -3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 1.27)
+        (xy -4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 1.27)
+        (xy -4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 5.08)
+        (xy -5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -5.08 5.08)
+        (xy -5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+  )
+  (symbol "SK36/50" (in_bom yes) (on_board yes)
+    (property "Reference" "KK" (at 5.715 3.175 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "SK36/50" (at 5.715 0.635 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:heatsink.SK36_50" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (polyline
+      (pts
+        (xy -5.08 0)
+        (xy 5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 0)
+        (xy 5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 5.08)
+        (xy 4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 5.08)
+        (xy 4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 1.27)
+        (xy 3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 1.27)
+        (xy 3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 5.08)
+        (xy 2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 5.08)
+        (xy 2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 1.27)
+        (xy -2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 1.27)
+        (xy -2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 5.08)
+        (xy -3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 5.08)
+        (xy -3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 1.27)
+        (xy -4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 1.27)
+        (xy -4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 5.08)
+        (xy -5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -5.08 5.08)
+        (xy -5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+  )
+  (symbol "SK36/75" (in_bom yes) (on_board yes)
+    (property "Reference" "KK" (at 5.715 3.175 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "SK36/75" (at 5.715 0.635 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:heatsink.SK36_75" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (polyline
+      (pts
+        (xy -5.08 0)
+        (xy 5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 0)
+        (xy 5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 5.08)
+        (xy 4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 5.08)
+        (xy 4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 1.27)
+        (xy 3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 1.27)
+        (xy 3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 5.08)
+        (xy 2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 5.08)
+        (xy 2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 1.27)
+        (xy -2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 1.27)
+        (xy -2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 5.08)
+        (xy -3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 5.08)
+        (xy -3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 1.27)
+        (xy -4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 1.27)
+        (xy -4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 5.08)
+        (xy -5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -5.08 5.08)
+        (xy -5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+  )
+  (symbol "FK209" (in_bom yes) (on_board yes)
+    (property "Reference" "KK" (at 5.715 3.175 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "FK209" (at 5.715 0.635 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:heatsink.FK209" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (polyline
+      (pts
+        (xy -5.08 0)
+        (xy 5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 0)
+        (xy 5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 5.08)
+        (xy 4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 5.08)
+        (xy 4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 1.27)
+        (xy 3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 1.27)
+        (xy 3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 5.08)
+        (xy 2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 5.08)
+        (xy 2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 1.27)
+        (xy -2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 1.27)
+        (xy -2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 5.08)
+        (xy -3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 5.08)
+        (xy -3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 1.27)
+        (xy -4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 1.27)
+        (xy -4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 5.08)
+        (xy -5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -5.08 5.08)
+        (xy -5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+  )
+  (symbol "FK213" (in_bom yes) (on_board yes)
+    (property "Reference" "KK" (at 5.715 3.175 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "FK213" (at 5.715 0.635 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:heatsink.FK213" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (polyline
+      (pts
+        (xy -5.08 0)
+        (xy 5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 0)
+        (xy 5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 5.08)
+        (xy 4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 5.08)
+        (xy 4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 1.27)
+        (xy 3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 1.27)
+        (xy 3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 5.08)
+        (xy 2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 5.08)
+        (xy 2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 1.27)
+        (xy -2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 1.27)
+        (xy -2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 5.08)
+        (xy -3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 5.08)
+        (xy -3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 1.27)
+        (xy -4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 1.27)
+        (xy -4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 5.08)
+        (xy -5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -5.08 5.08)
+        (xy -5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+  )
+  (symbol "PF752" (in_bom yes) (on_board yes)
+    (property "Reference" "KK" (at -1.651 -2.54 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "PF752" (at 3.683 -2.54 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:heatsink.PF752" (at 3.683 -2.54 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 3.683 -2.54 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (polyline
+      (pts
+        (xy 0 -2.54)
+        (xy 0 2.54)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 0 2.54)
+        (xy -1.143 2.54)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -1.143 2.54)
+        (xy -1.143 2.159)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -1.143 2.159)
+        (xy -0.381 2.159)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -0.381 2.159)
+        (xy -0.381 1.27)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -0.381 1.27)
+        (xy -1.143 1.27)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -1.143 1.27)
+        (xy -1.143 0.889)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -1.143 0.889)
+        (xy -0.381 0.889)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -0.381 0.889)
+        (xy -0.381 -0.889)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -0.381 -0.889)
+        (xy -1.143 -0.889)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -1.143 -0.889)
+        (xy -1.143 -1.27)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -1.143 -1.27)
+        (xy -0.381 -1.27)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -0.381 -1.27)
+        (xy -0.381 -2.159)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -0.381 -2.159)
+        (xy -1.143 -2.159)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -1.143 -2.159)
+        (xy -1.143 -2.54)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -1.143 -2.54)
+        (xy 0 -2.54)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 0.381 2.54)
+        (xy 0 2.54)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 1.016 1.397)
+        (xy 1.016 2.032)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (arc (start 1.016 2.032) (mid 0.508 2.540) (end 0 2.032)
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (arc (start 1.016 1.397) (mid 0.508 0.889) (end 1.016 0.381)
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 0.254 1.651)
+        (xy 0.254 -2.413)
+      )
+      (stroke (width 0.4064) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 0.254 -2.413)
+        (xy 1.27 -2.413)
+      )
+      (stroke (width 0.4064) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 1.27 -2.413)
+        (xy 1.27 -0.127)
+      )
+      (stroke (width 0.4064) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 1.27 -0.127)
+        (xy 0.508 -0.127)
+      )
+      (stroke (width 0.4064) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 0.508 -0.127)
+        (xy 0.508 -2.032)
+      )
+      (stroke (width 0.4064) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 0.508 -2.032)
+        (xy 1.016 -2.032)
+      )
+      (stroke (width 0.4064) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 1.016 -2.032)
+        (xy 1.016 -0.381)
+      )
+      (stroke (width 0.4064) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 1.016 -0.381)
+        (xy 0.762 -0.381)
+      )
+      (stroke (width 0.4064) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 0.762 -0.381)
+        (xy 0.762 -1.778)
+      )
+      (stroke (width 0.4064) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 0.508 -2.54)
+        (xy 0.508 -3.556)
+      )
+      (stroke (width 0.3048) (type default))
+      (fill (type none))
+    )
+  )
+  (symbol "PF750" (in_bom yes) (on_board yes)
+    (property "Reference" "KK" (at -1.651 -2.54 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "PF750" (at 3.683 -2.54 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:heatsink.PF752" (at 3.683 -2.54 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 3.683 -2.54 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (polyline
+      (pts
+        (xy 0 -2.54)
+        (xy 0 2.54)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 0 2.54)
+        (xy -1.143 2.54)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -1.143 2.54)
+        (xy -1.143 2.159)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -1.143 2.159)
+        (xy -0.381 2.159)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -0.381 2.159)
+        (xy -0.381 1.27)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -0.381 1.27)
+        (xy -1.143 1.27)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -1.143 1.27)
+        (xy -1.143 0.889)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -1.143 0.889)
+        (xy -0.381 0.889)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -0.381 0.889)
+        (xy -0.381 -0.889)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -0.381 -0.889)
+        (xy -1.143 -0.889)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -1.143 -0.889)
+        (xy -1.143 -1.27)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -1.143 -1.27)
+        (xy -0.381 -1.27)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -0.381 -1.27)
+        (xy -0.381 -2.159)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -0.381 -2.159)
+        (xy -1.143 -2.159)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -1.143 -2.159)
+        (xy -1.143 -2.54)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -1.143 -2.54)
+        (xy 0 -2.54)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 0.381 2.54)
+        (xy 0 2.54)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 1.016 1.397)
+        (xy 1.016 2.032)
+      )
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (arc (start 1.016 2.032) (mid 0.508 2.540) (end 0 2.032)
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (arc (start 1.016 1.397) (mid 0.508 0.889) (end 1.016 0.381)
+      (stroke (width 0.1524) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 0.254 1.651)
+        (xy 0.254 -2.413)
+      )
+      (stroke (width 0.4064) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 0.254 -2.413)
+        (xy 1.27 -2.413)
+      )
+      (stroke (width 0.4064) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 1.27 -2.413)
+        (xy 1.27 -0.127)
+      )
+      (stroke (width 0.4064) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 1.27 -0.127)
+        (xy 0.508 -0.127)
+      )
+      (stroke (width 0.4064) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 0.508 -0.127)
+        (xy 0.508 -2.032)
+      )
+      (stroke (width 0.4064) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 0.508 -2.032)
+        (xy 1.016 -2.032)
+      )
+      (stroke (width 0.4064) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 1.016 -2.032)
+        (xy 1.016 -0.381)
+      )
+      (stroke (width 0.4064) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 1.016 -0.381)
+        (xy 0.762 -0.381)
+      )
+      (stroke (width 0.4064) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 0.762 -0.381)
+        (xy 0.762 -1.778)
+      )
+      (stroke (width 0.4064) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 0.508 -2.54)
+        (xy 0.508 -3.556)
+      )
+      (stroke (width 0.3048) (type default))
+      (fill (type none))
+    )
+  )
+  (symbol "SK129-PAD" (in_bom yes) (on_board yes)
+    (property "Reference" "KK" (at 5.715 3.175 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "SK129-PAD" (at 5.715 0.635 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:heatsink.SK129" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (polyline
+      (pts
+        (xy -5.08 0)
+        (xy 5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 0)
+        (xy 5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 5.08)
+        (xy 4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 5.08)
+        (xy 4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 1.27)
+        (xy 3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 1.27)
+        (xy 3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 5.08)
+        (xy 2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 5.08)
+        (xy 2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 1.27)
+        (xy -2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 1.27)
+        (xy -2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 5.08)
+        (xy -3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 5.08)
+        (xy -3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 1.27)
+        (xy -4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 1.27)
+        (xy -4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 5.08)
+        (xy -5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -5.08 5.08)
+        (xy -5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (pin passive line (at -5.08 -2.54 90) (length 2.54)
+      (name "K@1" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      (number "A2,5" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+    )
+    (pin passive line (at 5.08 -2.54 90) (length 2.54)
+      (name "K@2" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      (number "B2,5" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+    )
+  )
+  (symbol "SK104-PAD" (in_bom yes) (on_board yes)
+    (property "Reference" "KK" (at 5.715 3.175 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "SK104-PAD" (at 5.715 0.635 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:heatsink.SK104_PAD" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (polyline
+      (pts
+        (xy -5.08 0)
+        (xy 5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 0)
+        (xy 5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 5.08)
+        (xy 4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 5.08)
+        (xy 4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 1.27)
+        (xy 3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 1.27)
+        (xy 3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 5.08)
+        (xy 2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 5.08)
+        (xy 2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 1.27)
+        (xy -2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 1.27)
+        (xy -2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 5.08)
+        (xy -3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 5.08)
+        (xy -3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 1.27)
+        (xy -4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 1.27)
+        (xy -4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 5.08)
+        (xy -5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -5.08 5.08)
+        (xy -5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (pin passive line (at -5.08 -2.54 90) (length 2.54)
+      (name "K@1" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      (number "K1" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+    )
+    (pin passive line (at 5.08 -2.54 90) (length 2.54)
+      (name "K@2" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+      (number "K2" (effects (font (size 0.635 0.635) (thickness 0.08)) (justify left bottom)))
+    )
+  )
+  (symbol "D01PA" (in_bom yes) (on_board yes)
+    (property "Reference" "KK" (at 5.715 3.175 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "D01PA" (at 5.715 0.635 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:heatsink.D01PA" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (polyline
+      (pts
+        (xy -5.08 0)
+        (xy 5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 0)
+        (xy 5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 5.08)
+        (xy 4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 5.08)
+        (xy 4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 1.27)
+        (xy 3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 1.27)
+        (xy 3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 5.08)
+        (xy 2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 5.08)
+        (xy 2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 1.27)
+        (xy -2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 1.27)
+        (xy -2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 5.08)
+        (xy -3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 5.08)
+        (xy -3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 1.27)
+        (xy -4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 1.27)
+        (xy -4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 5.08)
+        (xy -5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -5.08 5.08)
+        (xy -5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+  )
+  (symbol "D02P" (in_bom yes) (on_board yes)
+    (property "Reference" "KK" (at 5.715 3.175 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "D02P" (at 5.715 0.635 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:heatsink.D02PA" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (polyline
+      (pts
+        (xy -5.08 0)
+        (xy 5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 0)
+        (xy 5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 5.08)
+        (xy 4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 5.08)
+        (xy 4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 1.27)
+        (xy 3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 1.27)
+        (xy 3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 5.08)
+        (xy 2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 5.08)
+        (xy 2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 1.27)
+        (xy -2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 1.27)
+        (xy -2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 5.08)
+        (xy -3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 5.08)
+        (xy -3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 1.27)
+        (xy -4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 1.27)
+        (xy -4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 5.08)
+        (xy -5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -5.08 5.08)
+        (xy -5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+  )
+  (symbol "D03PA" (in_bom yes) (on_board yes)
+    (property "Reference" "KK" (at 5.715 3.175 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Value" "D03PA" (at 5.715 0.635 0)
+      (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
+    )
+    (property "Footprint" "Eagle:heatsink.D03PA" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 5.715 0.635 0)
+      (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
+    )
+    (polyline
+      (pts
+        (xy -5.08 0)
+        (xy 5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 0)
+        (xy 5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 5.08 5.08)
+        (xy 4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 5.08)
+        (xy 4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 4.445 1.27)
+        (xy 3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 1.27)
+        (xy 3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 3.175 5.08)
+        (xy 2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 5.08)
+        (xy 2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy 2.54 1.27)
+        (xy -2.54 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 1.27)
+        (xy -2.54 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -2.54 5.08)
+        (xy -3.175 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 5.08)
+        (xy -3.175 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -3.175 1.27)
+        (xy -4.445 1.27)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 1.27)
+        (xy -4.445 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -4.445 5.08)
+        (xy -5.08 5.08)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts
+        (xy -5.08 5.08)
+        (xy -5.08 0)
+      )
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+  )
+)

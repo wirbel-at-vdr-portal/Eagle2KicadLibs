@@ -1,0 +1,20 @@
+(footprint "logo.CE_5MM" (version 20220914) (generator Eagle2Kicad)
+  (layer "F.Cu")
+  (tedit 64cac550)
+  (fp_poly
+    (pts
+      (xy 2.725 -0.75)
+      (xy 2.725 -0.075)
+      (xy 2.725 -5)
+      (xy 2.725 -4.325)
+    ) (layer "F.SilkS") (stroke (width 0.1) (type default)) (fill solid) (tstamp 1b4f16f8-8782-481d-94b3-c8d4bc58c3f0))
+  (fp_poly
+    (pts
+      (xy 6.95 -0.75)
+      (xy 6.95 -0.075)
+      (xy 6.95 -5)
+      (xy 6.95 -4.325)
+    ) (layer "F.SilkS") (stroke (width 0.1) (type default)) (fill solid) (tstamp 5b2038e4-0aaf-4c7d-be6e-1031e295e183))
+  (fp_rect (start 4.95 -2.1625) (end 6.5125 -2.9125)
+    (layer "F.SilkS") (stroke (width 0.05) (type default)) (fill solid) (tstamp 03028701-7405-43f0-a696-eb35923d8e2b))
+)

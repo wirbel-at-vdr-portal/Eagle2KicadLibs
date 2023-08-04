@@ -1,0 +1,6 @@
+(footprint "special-drill.DRILL_0_2500" (version 20220914) (generator Eagle2Kicad)
+  (layer "F.Cu")
+  (tedit 64cac560)
+  (descr "1/4 Marker 250 thousands of an inch")
+  (pad "" np_thru_hole circle (at 0 0 0) (size 6.35 6.35) (drill 6.35) (layers "*.Cu" "*.Mask") (tstamp cd542cf9-acdd-4298-9989-5430dd9193cc))
+)
