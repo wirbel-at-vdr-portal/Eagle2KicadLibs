@@ -6,7 +6,7 @@
     (property "Value" "TA2022" (at -12.7 -53.34 0)
       (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
     )
-    (property "Footprint" "Eagle:tripas.SSIP_32" (at -12.7 -53.34 0)
+    (property "Footprint" "Eagle:ref-packages.SSIP_32" (at -12.7 -53.34 0)
       (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
     )
     (property "Datasheet" "" (at -12.7 -53.34 0)

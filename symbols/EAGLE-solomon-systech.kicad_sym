@@ -308,7 +308,7 @@
     (property "Value" "SSD1926" (at -5.08 -2.54 0)
       (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
     )
-    (property "Footprint" "Eagle:solomon-systech.SQFP_S_14X14_128" (at -5.08 -2.54 0)
+    (property "Footprint" "Eagle:ref-packages.SQFP_S_14X14_128" (at -5.08 -2.54 0)
       (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
     )
     (property "Datasheet" "" (at -5.08 -2.54 0)

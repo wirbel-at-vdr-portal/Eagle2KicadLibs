@@ -6,7 +6,7 @@
     (property "Value" "TNT4882" (at -15.24 -81.28 0)
       (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
     )
-    (property "Footprint" "Eagle:national-instruments.QFP100R" (at -15.24 -81.28 0)
+    (property "Footprint" "Eagle:ref-packages.QFP100R" (at -15.24 -81.28 0)
       (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
     )
     (property "Datasheet" "" (at -15.24 -81.28 0)

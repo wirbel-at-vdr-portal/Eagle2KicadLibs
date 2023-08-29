@@ -6,7 +6,7 @@
     (property "Value" "EM4095" (at -15.24 -17.78 0)
       (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
     )
-    (property "Footprint" "Eagle:em-microelectronic.SO16" (at -15.24 -17.78 0)
+    (property "Footprint" "Eagle:ref-packages.SO16" (at -15.24 -17.78 0)
       (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
     )
     (property "Datasheet" "" (at -15.24 -17.78 0)

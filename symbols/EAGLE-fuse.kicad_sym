@@ -564,7 +564,7 @@
     (property "Value" "PICOFUSE" (at -3.81 -2.921 0)
       (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
     )
-    (property "Footprint" "Eagle:fuse.M1206" (at -3.81 -2.921 0)
+    (property "Footprint" "Eagle:ref-packages.M1206" (at -3.81 -2.921 0)
       (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
     )
     (property "Datasheet" "" (at -3.81 -2.921 0)

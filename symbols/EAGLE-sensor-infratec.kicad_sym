@@ -6,7 +6,7 @@
     (property "Value" "LME-346-F" (at -5.08 -10.16 0)
       (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
     )
-    (property "Footprint" "Eagle:sensor-infratec.TO39" (at -5.08 -10.16 0)
+    (property "Footprint" "Eagle:ref-packages.TO39" (at -5.08 -10.16 0)
       (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
     )
     (property "Datasheet" "" (at -5.08 -10.16 0)
