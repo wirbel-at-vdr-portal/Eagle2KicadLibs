@@ -19958,7 +19958,7 @@
     (property "Value" "AQW*" (at -7.62 -8.128 0)
       (effects (font (size 1.778 1.778) (thickness 0.22)) (justify left bottom))
     )
-    (property "Footprint" "Eagle:ref-packages.DIL08SMD" (at -7.62 -8.128 0)
+    (property "Footprint" "Eagle:relay.DIL08SMD" (at -7.62 -8.128 0)
       (effects (font (size 0.5 0.5) (thickness 0.06)) (justify left bottom) hide)
     )
     (property "Datasheet" "" (at -7.62 -8.128 0)
